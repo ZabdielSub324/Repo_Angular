@@ -51,7 +51,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/angular_repo-master/"
+              "baseHref": "/Repo_angular/"
             },
             "development": {
               "optimization": false,
